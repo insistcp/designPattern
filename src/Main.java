@@ -6,6 +6,6 @@ public class Main {
         singletonPattern instance = singletonPattern.INSTANCE;
         instance.say();
         System.out.println("Hello World!");
-        // IDEA
+        // IDEA 123223232
     }
 }
