@@ -1,6 +1,6 @@
-package Aqu.implement;
+package StructurePattern.BridgePattern.implement;
 
-import Aqu.interfaces.BridgeAPI;
+import StructurePattern.BridgePattern.interfaces.BridgeAPI;
 
 /**
  * @Author: chenpeng

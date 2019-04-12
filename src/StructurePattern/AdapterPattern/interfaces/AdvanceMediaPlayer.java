@@ -1,4 +1,6 @@
 package StructurePattern.AdapterPattern.interfaces;
 
-public class AdvanceMediaPlayer {
+public interface AdvanceMediaPlayer {
+      void playVlc(String fileName);
+      void playMp4(String fileName);
 }

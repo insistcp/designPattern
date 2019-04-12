@@ -1,7 +1,7 @@
-package Aqu.implement;
+package StructurePattern.BridgePattern.implement;
 
-import Aqu.interfaces.BridgeAPI;
-import Aqu.interfaces.Shape;
+import StructurePattern.BridgePattern.interfaces.BridgeAPI;
+import StructurePattern.BridgePattern.interfaces.Shape;
 
 /**
  * @Author: chenpeng

@@ -1,4 +1,4 @@
-package StructurePattern;
+package StructurePattern.AdapterPattern;
 
 public class AdapterPatternMain {
 }

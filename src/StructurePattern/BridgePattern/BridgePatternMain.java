@@ -1,9 +1,8 @@
-package Aqu;
+package StructurePattern.BridgePattern;
 
-import Aqu.implement.Circle;
-import Aqu.implement.GreenCircle;
-import Aqu.implement.RedCircle;
-import Aqu.interfaces.Shape;
+import StructurePattern.BridgePattern.implement.Circle;
+import StructurePattern.BridgePattern.implement.GreenCircle;
+import StructurePattern.BridgePattern.implement.RedCircle;
 
 
 /**

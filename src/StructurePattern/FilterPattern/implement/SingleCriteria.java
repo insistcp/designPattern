@@ -6,15 +6,15 @@ import StructurePattern.FilterPattern.interfaces.Criteria;
 import java.util.ArrayList;
 import java.util.List;
 
-public class CriteriaFemale implements Criteria {
+public class SingleCriteria implements Criteria {
     @Override
     public List<Person> meetCriteria(List<Person> personList) {
-        List<Person> personMale = new ArrayList<>();
+        List<Person> personSingle = new ArrayList<>();
         for (Person person : personList ) {
-            if (person.getGender().equalsIgnoreCase("female")) {
-                personMale.add(person);
+            if (person.getMaritalStatus().equalsIgnoreCase("single")) {
+                personSingle.add(person);
             }
         }
-        return personMale;
+        return personSingle;
     }
 }

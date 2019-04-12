@@ -1,4 +1,4 @@
-package StructurePattern.AdapterPattern;
-
-public class MediaPlayer {
+package StructurePattern.AdapterPattern.interfaces;
+public interface MediaPlayer {
+    public void play(String audioType, String fileName);
 }

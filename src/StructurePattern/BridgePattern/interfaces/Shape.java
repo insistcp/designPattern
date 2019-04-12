@@ -1,4 +1,4 @@
-package Aqu.interfaces;
+package StructurePattern.BridgePattern.interfaces;
 
 /**
  * @Author: chenpeng
