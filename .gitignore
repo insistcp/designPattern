@@ -1,8 +1,10 @@
 # Compiled class file
 *.class
 *.xml
+*.iml
 # Log file
 *.log
+/out
 
 # BlueJ files
 *.ctxt
